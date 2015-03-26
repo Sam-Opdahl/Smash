@@ -1,5 +1,5 @@
 # Smash
-A simple C++ command interpreter for linux
+A simple C++ command interpreter for Unix
 
 This program will not run in Windows.
 
