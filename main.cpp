@@ -3,7 +3,7 @@
 *	Sam Opdahl
 *	Smash Interpreter
 *
-*	A simple command interpreter for linux.
+*	A simple command interpreter for unix.
 *	When run, type 'help' to list the available commands.
 *
 *******************************************************************/
